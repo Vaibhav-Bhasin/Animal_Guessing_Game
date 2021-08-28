@@ -43,5 +43,20 @@ if a == "Small":
 else:
   print("") 
  
-  
+    
+if a == "Small":
+ print("Ok")
+ if b == "Black":
+  print("Ok") 
+  if c == "Mammal":
+    print("Is it a Cat")
+  else:
+    print("")
+ else:
+    print("")
+else:
+  print("") 
+ 
+ 
+ 
  
