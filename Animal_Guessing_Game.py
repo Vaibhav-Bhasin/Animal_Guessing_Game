@@ -56,7 +56,20 @@ if a == "Small":
     print("")
 else:
   print("") 
+  
  
+if a == "Small":
+ print("Ok")
+ if b == "Green":
+  print("Ok") 
+  if c == "NonMammal":
+    print("Is it a Turtle")
+  else:
+    print("")
+ else:
+    print("")
+else:
+  print("")
  
  
  
