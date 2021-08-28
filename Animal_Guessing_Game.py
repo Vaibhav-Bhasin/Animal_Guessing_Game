@@ -29,5 +29,19 @@ if a == "small":
 else:
   print("")  
  
+  
+if a == "Small":
+ print("Ok")
+ if b == "Golden":
+  print("Ok") 
+  if c == "Mammal":
+    print("Is it a Dog")
+  else:
+    print("")
+ else:
+    print("")
+else:
+  print("") 
  
+  
  
